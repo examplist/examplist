@@ -2,9 +2,7 @@
 
 ### 💼 프로젝트 저장소는 다음과 같습니다. | These are repositories for projects.
 
-[ShareGround](https://github.com/examplist/ShareGround), [ShareGround2](https://github.com/examplist/ShareGround2), [chat-app](https://github.com/examplist/chat-app), [React-Shop-update](https://github.com/examplist/React-Shop-update), [d-day-checker](https://github.com/examplist/d-day-checker), [d-day-checker-aws](https://github.com/examplist/d-day-checker-aws)
-
-\* I am sorry but English versions are not ready yet.
+[ShareGround](https://github.com/examplist/ShareGround), [ShareGround2](https://github.com/examplist/ShareGround2), [chat-app](https://github.com/examplist/chat-app), [d-day-checker](https://github.com/examplist/d-day-checker), [d-day-checker-aws](https://github.com/examplist/d-day-checker-aws)
 
 ### ✏ 공부용 저장소는 다음과 같습니다. | These are repositories for studying.
 
